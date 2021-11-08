@@ -1,2 +1,2 @@
 # Skripsie
-Smart Power Monitor for Grid-tied System
+Management and Monitoring tool for Grid-tied System
